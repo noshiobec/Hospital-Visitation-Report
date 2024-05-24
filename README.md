@@ -1,7 +1,13 @@
 # Hospital-Visitation-Report
 
 ![image](https://app.powerbi.com/view?r=eyJrIjoiNGYyMTU1NGYtZDFhMS00YzVkLTgzMjgtOWJmMWUzYTY2NjA4IiwidCI6Ijg2ZDhlM2ViLTQ4YzYtNDdlZC05Nzk0LTdiZmZmNWE2ZTUyNCJ9)
+![image]()
 
+https://app.powerbi.com/view?r=eyJrIjoiNGYyMTU1NGYtZDFhMS00YzVkLTgzMjgtOWJmMWUzYTY2NjA4IiwidCI6Ijg2ZDhlM2ViLTQ4YzYtNDdlZC05Nzk0LTdiZmZmNWE2ZTUyNCJ9
+![image](https://github.com/noshiobec/REF-Analysis/assets/96450822/dcd25d71-f2ef-48d6-ba83-994852c5357c)
+
+
+## [View Report](https://app.powerbi.com/view?r=eyJrIjoiNGEyY2ZjYTAtNmI0My00MjMwLThlMDAtOTIyNjBhZjAwYTVjIiwidCI6Ijg2ZDhlM2ViLTQ4YzYtNDdlZC05Nzk0LTdiZmZmNWE2ZTUyNCJ9)
 
 ### Overview
 This project provides a comprehensive analysis of hospital patient visit data, including demographics, satisfaction scores, wait times, and department referrals. Using Power BI, a dashboard was created to visualize the data, ensuring accuracy through data cleaning and transformation. Key insights and trends are explored to inform recommendations for enhancing patient satisfaction and optimizing hospital operations.
